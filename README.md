@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **Sabareeswar Senthilvel**, a **Data Analyst and Software Engineer** passionate about solving complex problems with data-driven solutions. I specialize in **Big Data Systems**, **predictive analytics**, and building **scalable software** that transforms ideas into reality. 🚀
+Hi there! I'm **Sabareeswar Senthilvel**, a **Software Engineer** passionate about solving complex problems with data-driven solutions. I specialize in **Big Data Systems**, **predictive analytics**, and building **scalable software** that transforms ideas into reality. 🚀
 
 ---
 
@@ -8,7 +8,7 @@ Hi there! I'm **Sabareeswar Senthilvel**, a **Data Analyst and Software Engineer
 
 - 🎓 **M.S. in Computer Science (Big Data)**  
   *Arizona State University, Dec 2023, GPA: 3.8/4.0*
-- 💼 **3+ Years of Experience** in Data Analysis, Software Engineering, and Machine Learning.
+- 💼 **3+ Years of Experience** in Software Engineering, Machine Learning and Data Analysis.
 - 🌟 **Key Interests**: Predictive Modeling, Scalable Systems, Full-Stack Development, Cloud Computing and Interactive Dashboards.
 
 ---
